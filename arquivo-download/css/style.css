@@ -1,0 +1,21 @@
+ h1 {
+     display: flex;
+     justify-content: center;
+ }
+ 
+ #caixa {
+     display: flex;
+     justify-content: center;
+     padding: 100px;
+ }
+ 
+ #botao {
+     display: flex;
+     width: 70px;
+ }
+ 
+ #referencias {
+     display: flex;
+     justify-content: center;
+     padding: 1px;
+ }
